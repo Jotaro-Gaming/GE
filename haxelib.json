@@ -1,0 +1,12 @@
+{
+  "name": "GE",
+  "url" : "https://github.com/mrclogsworthyt/GE/",
+  "license": "MIT",
+  "tags": ["copilot", "github", "engine"],
+  "description": "this was created by copilot",
+  "version": "0.0.1",
+  "classPath": "GE/",
+  "releasenote": "Initial release",
+  "contributors": ["MrClogsworthYT"],
+  "dependencies": {}
+}
