@@ -3,7 +3,7 @@ GE is an engine created by copilot for Haxe
 
 ## installment
 
-to start instaling type `haxelib git clone https://github.com/MrClogsworthYT/GE`
+to start instaling type `haxelib git GE https://github.com/MrClogsworthYT/GE`
 
 # further notes
 
